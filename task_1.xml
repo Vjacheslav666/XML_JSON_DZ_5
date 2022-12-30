@@ -1,0 +1,37 @@
+<!-- Исходный код: -->
+
+<req>
+
+    <surname>Иванов</surname>
+
+    <name>Иван</name>
+
+    <patronymic>Иванович</patronymic>
+
+    <birthdate>01.01.1990</birthdate>
+
+    <birthplace>Москва</birthplace>
+
+    <phone>8 926 766 48 48</phone>
+
+</req
+
+<!-- Найдена ошибка в 17 строке. Не стоит знак ">". -->
+
+<!-- Правильное решение: -->
+
+<req>
+
+    <surname>Иванов</surname>
+
+    <name>Иван</name>
+
+    <patronymic>Иванович</patronymic>
+
+    <birthdate>01.01.1990</birthdate>
+
+    <birthplace>Москва</birthplace>
+
+    <phone>8 926 766 48 48</phone>
+
+</req>
